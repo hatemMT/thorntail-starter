@@ -1,4 +1,4 @@
-package com.ark;
+package com.ark.hello;
 
 import javax.persistence.*;
 

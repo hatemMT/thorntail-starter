@@ -1,7 +1,5 @@
 package com.ark.hello;
 
-import com.ark.MyModel;
-
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;

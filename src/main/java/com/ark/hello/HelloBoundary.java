@@ -1,7 +1,5 @@
 package com.ark.hello;
 
-import com.ark.MyModel;
-
 import javax.inject.Inject;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
